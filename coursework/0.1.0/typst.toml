@@ -1,0 +1,6 @@
+[package]
+name = "coursework"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Kareem"]
+description = "Clean engineering and math assignment template."
