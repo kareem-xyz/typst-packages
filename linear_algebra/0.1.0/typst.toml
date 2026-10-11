@@ -1,0 +1,6 @@
+[package]
+name = "linear_algebra"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Kareem"]
+description = "Automated linear algebra tools for homework."
